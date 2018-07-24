@@ -27,6 +27,5 @@ Add remote destinations to your local Git repository
 
 git remote add origin git@github.com:mits254/GIT-TEST.git
 
-<h3> push commits from your local Git repository to a remote repository <h3>
-
+<h3> push commits from your local Git repository to a remote repository <\h3>
 git push -u origin master

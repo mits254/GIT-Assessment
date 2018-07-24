@@ -18,7 +18,7 @@ Git repository is a directory of laptop which is initialized with Git version co
 
 Git init
 
-<h3> add and commit changes to a Git repository </h3>
+<h3> Add and commit changes to a Git repository </h3>
 
 Git add filename 
 this command will add the file in a Git. While commit will accept the changes of the file.
@@ -27,6 +27,6 @@ this command will add the file in a Git. While commit will accept the changes of
 
 git remote add origin git@github.com:mits254/GIT-TEST.git
 
-<h3> push commits from your local Git repository to a remote repository </h3>
+<h3> Push commits from your local Git repository to a remote repository </h3>
 
 git push -u origin master
